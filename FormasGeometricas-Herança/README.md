@@ -1,4 +1,4 @@
-# Formas Geométricas Encapsuladas
+# Formas Geométricas(HERANÇA)
 Este repositóro contém as questóes de formas geométricas planas e espaciais com herança
 
 # Como acessar as quesões 
