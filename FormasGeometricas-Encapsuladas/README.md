@@ -1,4 +1,4 @@
-# Formas Geométricas Encapsuladas
+# Formas Geométricas(Encapsuladas)
 Este repositóro contém as questóes de formas geométricas planas e espaciais encapsuladas
 
 # Como acessar as quesões 
